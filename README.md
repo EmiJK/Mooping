@@ -1,2 +1,6 @@
 # Mooping
+Gameplay prototype made in Unity using C#.
+
 CONTROL A UFO AND SNEAK THROUGH A CORN MAZE TO ABDUCT COWS WHILE DODGING TRAPS LEFT BY A CLEVER FARMER.
+
+
